@@ -4,6 +4,13 @@ Print these patterns using loops:
 
 ```text
 
+0.  * 
+    * *         
+    * * *       
+    * * * *     
+    * * * * *   
+    * * * * * * 
+
 1.  *****
     *****
     *****
