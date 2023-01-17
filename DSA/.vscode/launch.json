@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch concatenation",
+            "request": "launch",
+            "mainClass": "concatenation",
+            "projectName": "DSA_ff5f494c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "DSA_ff5f494c"
+        },
+        {
+            "type": "java",
+            "name": "Launch equals",
+            "request": "launch",
+            "mainClass": "equals",
+            "projectName": "DSA_ff5f494c"
+        },
+        {
+            "type": "java",
+            "name": "Launch comparison",
+            "request": "launch",
+            "mainClass": "comparison",
+            "projectName": "DSA_ff5f494c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstprblm",
+            "request": "launch",
+            "mainClass": "firstprblm",
+            "projectName": "DSA_ff5f494c"
+        },
+        {
+            "type": "java",
+            "name": "Launch one",
+            "request": "launch",
+            "mainClass": "one",
+            "projectName": "DSA_ff5f494c"
+        },
+        {
+            "type": "java",
+            "name": "Launch three",
+            "request": "launch",
+            "mainClass": "three",
+            "projectName": "DSA_ff5f494c"
+        },
+        {
+            "type": "java",
+            "name": "Launch two",
+            "request": "launch",
+            "mainClass": "two",
+            "projectName": "DSA_ff5f494c"
+        }
+    ]
+}
